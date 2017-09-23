@@ -8,10 +8,10 @@
 #define a function
 def Addingthreenumbers(x, y, z):
 
-#name the variable for the equation   
+#name the variable for the equation
   results = (x + y + z)
 
- #pint the answers
+ #print the answers
   print(results)
 
 #call the function with defined variables
