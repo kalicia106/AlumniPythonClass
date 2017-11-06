@@ -1,0 +1,21 @@
+Hi Saroosh. This is me practicing the requested commands for this assignment.
+
+
+
+Screenshot of K.Nesbeth Practicing HW3 Commands: I just added it to the file I created for the exercise.
+
+kalicia-Nesbeths-MacBook-Pro:AlumniPythonClass kalicianesbeth$ touch me.txt
+kalicia-Nesbeths-MacBook-Pro:AlumniPythonClass kalicianesbeth$ echo Hi Saroosh.  This is me practicing the requested commands for this assignment.>>me.txt
+kalicia-Nesbeths-MacBook-Pro:AlumniPythonClass kalicianesbeth$ cat me.txt
+Hi Saroosh. This is me practicing the requested commands for this assignment.
+kalicia-Nesbeths-MacBook-Pro:AlumniPythonClass kalicianesbeth$ grep me.txt
+
+^C
+kalicia-Nesbeths-MacBook-Pro:AlumniPythonClass kalicianesbeth$ grep Saroosh me.txt
+Hi Saroosh. This is me practicing the requested commands for this assignment.
+kalicia-Nesbeths-MacBook-Pro:AlumniPythonClass kalicianesbeth$ less me.txt
+kalicia-Nesbeths-MacBook-Pro:AlumniPythonClass kalicianesbeth$ Find me.txt
+me.txt
+kalicia-Nesbeths-MacBook-Pro:AlumniPythonClass kalicianesbeth$ Find Saroosh me.txt
+Find: Saroosh: No such file or directory
+kalicia-Nesbeths-MacBook-Pro:AlumniPythonClass kalicianesbeth$
